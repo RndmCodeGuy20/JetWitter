@@ -12,10 +12,9 @@ I have created a simple and accessible twitter clone using JetPack Compose, the 
 
 ### Screenshots ➡️
 
-![](./screenshots/Screenshot_2022-10-15-18-47-10-26_213a48dbf3fdf5beb8fc741ec2038aed.jpg)
-![](./screenshots/Screenshot_2022-10-15-18-47-15-72_213a48dbf3fdf5beb8fc741ec2038aed.jpg)
-![](./screenshots/Screenshot_2022-10-15-18-47-29-04_213a48dbf3fdf5beb8fc741ec2038aed.jpg)
-![](./screenshots/Screenshot_2022-10-15-18-47-37-83_213a48dbf3fdf5beb8fc741ec2038aed.jpg)
+| ![](./screenshots/Screenshot_2022-10-15-18-47-10-26_213a48dbf3fdf5beb8fc741ec2038aed.jpg) | ![](./screenshots/Screenshot_2022-10-15-18-47-15-72_213a48dbf3fdf5beb8fc741ec2038aed.jpg) |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![](./screenshots/Screenshot_2022-10-15-18-47-29-04_213a48dbf3fdf5beb8fc741ec2038aed.jpg) | ![](./screenshots/Screenshot_2022-10-15-18-47-37-83_213a48dbf3fdf5beb8fc741ec2038aed.jpg) |
 
 ### Functionality & Concepts Used ➡️
 
